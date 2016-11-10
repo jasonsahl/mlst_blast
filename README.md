@@ -1,1 +1,1 @@
-# mlst_blast
+MLST blast
